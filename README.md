@@ -5,9 +5,9 @@ Contact:
     If you have problems, questions, ideas or suggestions, please contact me by emailing me at evan_bulliner@yahoo.com
 
 Visit the website for the latest news:
-    https://ebulliner.github.io/Portfolio/
+    https://ebulliner.github.io/portfolio/
 
 To download the very latest source off of Github do the following:
-    git clone https://github.com/ebulliner/Portfolio.git
+    git clone https://github.com/ebulliner/portfolio.git
 
     
